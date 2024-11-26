@@ -1,0 +1,3 @@
+julian, 10
+jose, 0
+dario, 50
